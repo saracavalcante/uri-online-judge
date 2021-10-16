@@ -1,0 +1,9 @@
+• Uri 1001:
+
+- Split: divide uma string em substrings.
+
+- parseInt(): converte uma string para número.
+
+- shift(): remove o primeiro elemento(0) e retorna o valor removido.
+
+
