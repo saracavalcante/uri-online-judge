@@ -6,4 +6,12 @@
 
 - shift(): remove o primeiro elemento(0) e retorna o valor removido.
 
+• Uri 1002:
+
+- parseFloat(): retorna um número de ponto flutuante.
+
+- Math.pow(): retorna a base elevada ao expoente. 
+
+- toFixed(): arredonda para cima, com ou sem casas decimais. 
+
 
