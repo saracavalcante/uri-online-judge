@@ -14,4 +14,8 @@
 
 - toFixed(): arredonda para cima, com ou sem casas decimais. 
 
+• Uri 1012
+
+- map(): percorre um array e modifica cada elemento desse array. retorna um array com a mesma quantidade de elementos do array original, mas com cada um desses elementos modificados. 
+
 
