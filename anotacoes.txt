@@ -22,4 +22,6 @@
 
 - Math.abs(x): retorna o valor absoluto de um número "x". 
 
+• Uri 1015
 
+- Math.sqrt(): retorna a raiz quadrada de um número.
